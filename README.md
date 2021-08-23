@@ -1,9 +1,17 @@
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Run env dev \
+step 1: yarn \
+step 2: yarn start \
+step 3: node index.js \
+
+Client run at url: http://localhost:3000 \
+Backend run at url: http://localhost:5000 
 
 Run env production \
-step 1: yarn build\
-step 2: node index.js
+step 1: yarn \
+step 2: yarn build \
+step 3: node index.js \
+
+Client and Backend run at url: http://localhost:5000 
+
 
